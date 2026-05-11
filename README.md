@@ -94,14 +94,6 @@ sleep_edf_data/
 pip install mne numpy
 ```
 
-## Run the Project
-
-```bash
-python main.py
-```
-
-or run the notebook in Google Colab / VS Code.
-
 ## Example Output
 
 ```text
